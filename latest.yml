@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - url: electron-client-update-Setup-1.0.1.exe
+    sha512: j7LJyDCo4Ax6MK5BsdiJqu3+6rnq3Ss8Lk7sbVwbzI+FkIk2Ici2KKPdJMWubON341+8MHw/egNSFFLGiU3QpQ==
+    size: 72903589
+path: electron-client-update-Setup-1.0.1.exe
+sha512: j7LJyDCo4Ax6MK5BsdiJqu3+6rnq3Ss8Lk7sbVwbzI+FkIk2Ici2KKPdJMWubON341+8MHw/egNSFFLGiU3QpQ==
+releaseDate: '2023-09-02T15:11:18.880Z'

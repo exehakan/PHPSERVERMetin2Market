@@ -1,0 +1,11 @@
+directories:
+  output: dist
+  buildResources: build
+publish:
+  - provider: github
+    owner: exehakan
+    repo: PHPSERVERMetin2Market
+    releaseType: release
+asar: true
+files: []
+electronVersion: 26.1.0
